@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on my LLM project**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
@@ -56,19 +56,22 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zelrard&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zelrard&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zelrard&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zelrard&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zelrard&theme=dark&hide_border=true" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelrard&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
+<br/><br/>
+
+<hr/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=zelrard&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <br/>
