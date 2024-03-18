@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on my LLM project**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m also a Co-founder and CTO of The Hood [here](https://thehood.in/)
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything 
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
