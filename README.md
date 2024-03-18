@@ -14,9 +14,9 @@
  
  🌱 I’m also a Co-founder and CTO of The Hood [here](https://thehood.in/)
 
-💬 Ask me about **Node.js, React, Firebase... or anything 
+💬 Ask me about **Linux, LLM, Networking... or anything 
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **I am a coder and a co-founder of a clothing brand **
 
  </div>
  
